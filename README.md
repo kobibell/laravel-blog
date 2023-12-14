@@ -2,6 +2,14 @@
 
 This is a blog built from using Laravel and Vite to test the functionality of Laravel and how to full scale this to make web applications.
 
+### Requirements
+
+Since this is using Laravel, you'll need a compatible environment.
+
+See the Laravel installation docs for detailed instructions: [https://laravel.com/docs/10.x/installation](https://laravel.com/docs/10.x/installation)
+
+If you are using MacOS, you could also use Laravel Herd. For more information: [https://herd.laravel.com/docs/1/getting-started/installation](https://herd.laravel.com/docs/1/getting-started/installation)
+
 ### Installation
 
 Make sure your environment is configured as described in the [Requirements](#requirements) section.
